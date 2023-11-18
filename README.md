@@ -8,7 +8,7 @@ We only publish modules that have been reviewed
 
 一些实验性的产品在副库中，请注意，质量无法得到保证
 
-[副产品库]([http://www.google.com/](https://github.com/tanukitrpg/by-product)https://github.com/tanukitrpg/by-product)
+[副产品库](https://github.com/tanukitrpg/by-product)https://github.com/tanukitrpg/by-product)
 
 
 # 正在工期中的作品
