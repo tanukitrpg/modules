@@ -1,9 +1,10 @@
 # modules
 
 This is our modules repository
-
 We only publish modules that have been reviewed
+这是我们的模组存储库，我们只发布本社团审核过的模组
 
-這是我們的模組儲存庫
+# 正在工期中的作品
 
-我們只發布經過審核的模組
+林中之鸟
+妒火中烧
