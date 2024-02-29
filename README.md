@@ -8,10 +8,10 @@ We only publish modules that have been reviewed
 
 一些未能得到一致认同的实验性的产品在副库中，请注意，质量无法得到保证
 
-[副产品库](https://github.com/tanukitrpg/by-product)
+[副库](https://github.com/tanukitrpg/by-product)
 
 
-# 正在工期中的作品
+# 即将推出的作品
 
 林中之鸟
 
