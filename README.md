@@ -10,9 +10,12 @@ We only publish modules that have been reviewed
 
 [副库](https://github.com/tanukitrpg/by-product)
 
+# 已经推出的作品
+
+妒火中烧
 
 # 即将推出的作品
 
 林中之鸟
 
-妒火中烧
+
