@@ -4,18 +4,18 @@ This is our trpg modules repository
 
 We only publish modules that have been reviewed
 
-这是我们的模组存储库，我们只发布评审委员会的质量分数达到优秀限制的作品。
+这是我们的模组存储库，此处存储了狸猫屋开始活动后的作品。
 
-一些未能得到一致认同的实验性的产品在副库中，请注意，质量无法得到保证
+一些旧作和实验性的产品在副库中，请注意，质量无法得到保证
 
 [副库](https://github.com/tanukitrpg/by-product)
 
 # 已经推出的作品
 
 妒火中烧
-
-# 即将推出的作品
-
 林中之鸟
+遥不可及
+恶之花
+七月新娘
 
 
